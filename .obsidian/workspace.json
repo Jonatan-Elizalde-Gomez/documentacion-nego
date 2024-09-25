@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuración de Herramientas.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuración de Herramientas.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuración de Herramientas.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuración de Herramientas.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "cd678b8e116dc112",
   "lastOpenFiles": [
-    "Estilos y Shadcn ui.md",
     "Configuración de Herramientas.md",
+    "Estilos y Shadcn ui.md",
     "Estructura del Proyecto.md",
     "Referencias.md",
     "Pro Tips para Next.js.md",
     "Optimización y Performance.md",
-    "Índice Nego Web.md.md",
+    "Readme.md",
     "Gestión del Estado con Redux.md",
     "Estilos y Shadcn.md",
     "Documentación con JSDoc.md",
