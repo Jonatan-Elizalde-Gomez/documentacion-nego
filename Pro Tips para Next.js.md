@@ -1,0 +1,1 @@
+1. **Usar App Router:** Es un cambio clave en rendimiento y organización de rutas anidadas. 2. **Imagen Optimization:** Usa el componente `Image` de Next.js para optimizar imágenes: ```javascript import Image from 'next/image'; export default function nameFunction() { return <Image src="/hero-image.png" alt="Hero" width={1200} height={600} priority />; }

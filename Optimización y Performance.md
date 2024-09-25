@@ -1,0 +1,3 @@
+- **Code Splitting:** Usa `dynamic` para cargar componentes de forma asíncrona: ```javascript import dynamic from 'next/dynamic'; const DynamicComponent = dynamic(() => import('../components/HeavyComponent'));
+- **Data Fetching:** Utiliza `getStaticProps` e `Incremental Static Regeneration (ISR)` para optimizar la carga de datos.
+- **Server Components:** Aprovecha los Server Components para mejorar el rendimiento en Next.js 13+.

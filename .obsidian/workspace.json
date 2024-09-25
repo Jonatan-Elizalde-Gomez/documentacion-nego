@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "161b09f2e6ae9022",
+    "type": "split",
+    "children": [
+      {
+        "id": "16382e7ab6a2e9d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd678b8e116dc112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuración de Herramientas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "351b0813be9f3846",
+    "type": "split",
+    "children": [
+      {
+        "id": "354f3414d23e09da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f204f1b5505d85af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fc664a4022665a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a49ace0d995e1397",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "487679339749738a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d68fec5bd9d12f37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c4f57b650b09fe3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Configuración de Herramientas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa560731e1e5aec8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Configuración de Herramientas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "976c12f760c87e9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e186d1a8a37e6935",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Configuración de Herramientas.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "cd678b8e116dc112",
+  "lastOpenFiles": [
+    "Estilos y Shadcn ui.md",
+    "Configuración de Herramientas.md",
+    "Estructura del Proyecto.md",
+    "Referencias.md",
+    "Pro Tips para Next.js.md",
+    "Optimización y Performance.md",
+    "Índice Nego Web.md.md",
+    "Gestión del Estado con Redux.md",
+    "Estilos y Shadcn.md",
+    "Documentación con JSDoc.md",
+    "Convenciones de Nomenclatura.md",
+    "Estilos y Shadcn",
+    "Sin nombre",
+    "Bienvenido.md",
+    "documentacion-nego.md",
+    "README_Nego_Web_Final.md"
+  ]
+}

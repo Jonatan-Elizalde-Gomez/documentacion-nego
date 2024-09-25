@@ -1,0 +1,2 @@
+- [Mastering Next.js Architecture 2024](https://dev.to/vyan/mastering-nextjs-the-ultimate-guide-to-structuring-large-scale-projects-in-2024-h4e) 
+- [Next.js Best Practices](https://blog.logrocket.com/structure-scalab
